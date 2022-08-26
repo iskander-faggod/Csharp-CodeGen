@@ -1,0 +1,10 @@
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Generator/bin/Debug/netstandard2.0/Generator.deps.json
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Generator/bin/Debug/netstandard2.0/Generator.dll
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Generator/bin/Debug/netstandard2.0/Generator.pdb
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Generator/obj/Debug/netstandard2.0/Generator.csproj.AssemblyReference.cache
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Generator/obj/Debug/netstandard2.0/Generator.GeneratedMSBuildEditorConfig.editorconfig
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Generator/obj/Debug/netstandard2.0/Generator.AssemblyInfoInputs.cache
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Generator/obj/Debug/netstandard2.0/Generator.AssemblyInfo.cs
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Generator/obj/Debug/netstandard2.0/Generator.csproj.CoreCompileInputs.cache
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Generator/obj/Debug/netstandard2.0/Generator.dll
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Generator/obj/Debug/netstandard2.0/Generator.pdb

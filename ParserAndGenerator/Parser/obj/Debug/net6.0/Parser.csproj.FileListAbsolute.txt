@@ -1,0 +1,17 @@
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/bin/Debug/net6.0/Parser
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/bin/Debug/net6.0/Parser.deps.json
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/bin/Debug/net6.0/Parser.runtimeconfig.json
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/bin/Debug/net6.0/Parser.dll
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/bin/Debug/net6.0/Parser.pdb
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/bin/Debug/net6.0/Antlr4.Runtime.dll
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/obj/Debug/net6.0/Parser.csproj.AssemblyReference.cache
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/obj/Debug/net6.0/Parser.GeneratedMSBuildEditorConfig.editorconfig
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/obj/Debug/net6.0/Parser.AssemblyInfoInputs.cache
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/obj/Debug/net6.0/Parser.AssemblyInfo.cs
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/obj/Debug/net6.0/Parser.csproj.CoreCompileInputs.cache
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/obj/Debug/net6.0/Parser.csproj.CopyComplete
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/obj/Debug/net6.0/Parser.dll
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/obj/Debug/net6.0/refint/Parser.dll
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/obj/Debug/net6.0/Parser.pdb
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/obj/Debug/net6.0/Parser.genruntimeconfig.cache
+/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/obj/Debug/net6.0/ref/Parser.dll

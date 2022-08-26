@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Generator/Generator.csproj": {}
+  },
+  "projects": {
+    "/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Generator/Generator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Generator/Generator.csproj",
+        "projectName": "Generator",
+        "projectPath": "/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Generator/Generator.csproj",
+        "packagesPath": "/home/iskander/.nuget/packages/",
+        "outputPath": "/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Generator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/iskander/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/Parser.csproj": {
+                "projectPath": "/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/Parser.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.3, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/Parser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/Parser.csproj",
+        "projectName": "Parser",
+        "projectPath": "/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/Parser.csproj",
+        "packagesPath": "/home/iskander/.nuget/packages/",
+        "outputPath": "/home/iskander/Desktop/ParserAndGenerator/ParserAndGenerator/Parser/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/iskander/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Antlr4": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.6.6, )"
+            },
+            "Antlr4.Runtime": {
+              "target": "Package",
+              "version": "[4.6.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
